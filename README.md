@@ -32,7 +32,7 @@ ProjectName
     |----- strategy1.py
     |----- strategy2.py
     |----- ...
-    |               |----- logger
+    |----- logger
   
 ```
 
