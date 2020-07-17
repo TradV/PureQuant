@@ -1,0 +1,26 @@
+{
+    "LOG": {
+        "level": "critical",
+        "handler": "stream"
+    },
+    "EXCHANGE": {
+        "access_key": "f31241-266e-4126268cb86cef",
+        "secret_key": "07E5C7FA7A7FA2EC5C4949B9D4",
+        "passphrase": "123456"
+    },
+    "DINGTALK": {
+        "ding_talk_api": "https://oapi.dingtalk.com/robot/send?access_token=d3a368908a7db882cd3f6afcccca302e51a1c9"
+    },
+    "TWILIO": {
+        "accountSID" : "AC97a11fcc5ede559cd39061ad140f",
+        "authToken" : "3616b6ced8e250232ca2fa4aa559",
+        "myNumber" : "+8613712345678",
+        "twilio_Number" : "+12058946789"
+    },
+    "SENDMAIL": {
+        "from_addr" : "123456789@qq.com",
+        "password" : "xqkwtrsfqwcjgjjgh",
+        "to_addr" : "abc@icloud.com",
+        "smtp_server" : "smtp.qq.com"
+    }
+}
