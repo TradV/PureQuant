@@ -2,6 +2,52 @@
 
 ------
 
+PureQuant是一套使用Python语言开发的数字货币程序化交易开源框架，致力于为数字货币行业的投资者提供一个实现盈利的工具，但并不保证该框架能为所有的使用者带来盈利，希望使用者能够通过使用系统，建立并优化自己的交易思想，形成自己的交易策略。感谢您选择PureQuant，希望您能够通过使用该框架找到乐趣，并能创造更多价值。
+
+## 框架依赖
+
++ **运行环境**
+
+  python 3.5.3 或以上版本(建议安装3.7版本)
+
++ **MySQL数据库(可选)**
+
+  数据存储
+
+## 安装
+
+使用命令行工具可以简单方便安装:
+
+```python
+python setup.py install
+```
+
+## Example使用示例
+
++ 推荐创建如下结构的文件及文件夹
+
+```python
+ProjectName
+    |----- config.json
+    |----- strategy1.py
+    |----- strategy2.py
+    |----- ...
+    |               |----- logger
+  
+```
+
++ 运行Example 示例策略
+
+  ```python
+  python double_moving_average_strategy.py
+  ```
+
+## 有任何问题，欢迎联系
+
++ 微信二维码
+
+<img src="C:\Users\Administrator\Pictures\踏歌微信二维码.jpg" style="zoom:33%;" />
+
 ## 下单交易
 
 调用时需先导入trade模块并创建交易所对象
