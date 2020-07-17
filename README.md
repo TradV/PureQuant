@@ -16,7 +16,7 @@ PureQuant是一套使用Python语言开发的数字货币程序化交易开源�
 
 ## 安装
 
-使用命令行工具可以简单方便安装:
++ 使用命令行工具可以简单方便安装:
 
 ```python
 python setup.py install
