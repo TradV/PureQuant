@@ -1,4 +1,4 @@
-# PureQuant帮助文档
+# PureQuant
 
 ------
 
