@@ -17,7 +17,7 @@ setup(
     include_package_data = True,
     platforms = "any",
     description="Professional quantitative trading framework.",
-    url="",
+    url="https://github.com/eternalranger/PureQuant",
     author="eternal ranger",
     author_email="interstella.ranger2020@gmail.com",
     license="MIT",
