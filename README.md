@@ -44,9 +44,11 @@ ProjectName
 
 ## 有任何问题，欢迎联系
 
-+ 微信二维码
++ 微信： caa-essay
 
-<img src="C:\Users\Administrator\Pictures\踏歌微信二维码.jpg" style="zoom:33%;" />
+------
+
+
 
 ## 下单交易
 
